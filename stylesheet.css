@@ -41,7 +41,7 @@ header {
   color: #fff;
   text-align: center;
   margin: 0 auto;
-  background-image: url('images/top-background.jpg');
+  background-image: url('top-background.jpg');
   background-size: cover;
   margin-bottom: 64px;
 }
